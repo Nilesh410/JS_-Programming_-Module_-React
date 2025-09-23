@@ -1,0 +1,42 @@
+# Homework:
+
+
+
+### \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*Closure\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+
+
+
+1\) Write a function multiplyBy(n) that returns a function.
+
+The returned function should multiply any given number by n.
+
+
+
+2\) Write a function greeting that takes a name as a parameter and returns another function.
+
+When the returned function is called, it should print: Hello yourname
+
+e.g. Hello XYZ
+
+
+
+3\) Write a function createCounter() that returns a function. That returned function should return
+
+&nbsp; increment value of counter
+
+
+
+### \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*Call Back Function\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+
+
+
+1\) Write a program where a function calculate takes two numbers and a callback function.
+
+The calculate function should use the callback to perform different operations like addition or multiplication depending on which callback is passed.
+
+
+
+2\) Write a function transformString that accepts a string and a callback.
+
+The callback should transform the string in some way (e.g., uppercase, reverse).
+
