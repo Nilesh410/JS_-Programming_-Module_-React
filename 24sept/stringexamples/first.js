@@ -41,3 +41,25 @@ let result=str.split(" ")
 console.log(result[0])
 console.log(str)//split do not change any original string value
 
+//slice function that return take given string in some part with starting index and end index and exclude the end index value
+console.log(str)
+console.log(str.slice(0,5)) //Itvie
+let result1=str.slice(6,9) //2 S
+console.log(result1)
+console.log(str.slice(0,-1));//Itview2 Solutio
+console.log(str.slice(-2,-1));//o
+console.log(str.slice(-3,-4));//invalid range 
+console.log(str) //Itview2 Solution
+
+
+console.log(str.substring(0,5))//Itvie
+console.log(str.substring(6,9))//2 S
+
+console.log(str)
+console.log(str.substring(0,-1));//Itview2 Solution
+console.log(str.substring(5,-2)) //Itvie
+console.log(str.substring(2,4))//vi
+console.log(str.substring(4,2));//vi
+console.log(str.substring(-2,-3));//invalid range
+console.log(str.slice(2));
+console.log(str.substring(2))
