@@ -38,3 +38,16 @@ JAVA Script
 36) how to destructure the array, object and in function with examples
 37) use of desructurirng
 38) starting of DOM manipulation
+39) what is BOM 
+40) what are the function and properties about BOM 
+41) what is DOM 
+42) How to see the document object 
+43) what are the important functions of document?
+44) How to access any individual element through dom functions
+45) what are methods or functions to access html elements
+46) what is difference between innerHTML and innerText 
+47) what is difference between getElementsByTagName, getElementsByClassName, getElementByID, querySelector, querySelectorAll
+48) what is the difference between htmlcollection and nodelist
+49) React=> how to create react element 
+50) React=> how to render the html element on web page using reactdom
+51) React=> what are the parameters for createReactElement function
